@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://localhost:5000/api';
+export const API_BASE_URL = 'https://inventory-new-hk39.onrender.com/';
 
 export const PRODUCT_CATEGORIES = [
   'Electronics',
